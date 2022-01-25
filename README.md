@@ -15,7 +15,7 @@ https://www.postgresqltutorial.com/
 
 https://www.w3schools.com/sql/
 
-https://www.w3schools.com/sql/exercise.asp?
+https://www.w3schools.com/sql/exercise.asp
 
 
 # PostgreSQL Challenges
