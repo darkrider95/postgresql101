@@ -14,6 +14,7 @@ This repo is for me to learn how to use postgreSQL on both terminal and pgAdmin.
 https://www.postgresqltutorial.com/
 
 https://www.w3schools.com/sql/
+
 https://www.w3schools.com/sql/exercise.asp?
 
 
