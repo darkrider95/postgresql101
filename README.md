@@ -7,7 +7,7 @@ This repo is for me to learn how to use postgreSQL on both terminal and pgAdmin.
 
 [PostgreSQL on Linux (without pgadmin)](https://www.postgresqltutorial.com/install-postgresql-linux/)
 
-
+[PostgreSQL Sample Database](https://www.postgresqltutorial.com/postgresql-sample-database/)
 
 # PostgreSQL Tutorials
 
