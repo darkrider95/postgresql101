@@ -22,5 +22,6 @@ https://www.w3schools.com/sql/exercise.asp
 
 https://www.hackerrank.com/domains/sql
 
-# pgAdmin 
-[Documentation](https://www.pgadmin.org/docs/pgadmin4/latest/)
+# Documentation 
+[pgAdmin](https://www.pgadmin.org/docs/pgadmin4/latest/)
+[postgreSQL](https://www.postgresql.org/docs/14/datatype.html)
